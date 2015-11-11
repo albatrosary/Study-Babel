@@ -20,3 +20,10 @@ npm install --save-dev babel-preset-es2015
 ```
 babel script.js
 ```
+
+or
+
+```
+babel script.js --out-file script-compiled.js
+```
+
