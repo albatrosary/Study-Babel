@@ -5,6 +5,12 @@
 
 ```
 npm install -g babel-cli
+```
+
+v6から
+```
+mkdir Babel
+cd Babel
 npm install --save-dev babel-preset-es2015
 ```
 
