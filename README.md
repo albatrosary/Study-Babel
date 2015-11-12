@@ -35,6 +35,8 @@ babel script.js --out-file script-compiled.js
 
 ### ECMAScript 6 Features
 
+#### Let, Const
+
 #### Arrows and Lexical This
 
 #### Classes
@@ -47,7 +49,6 @@ babel script.js --out-file script-compiled.js
 
 #### Default + Rest + Spread
 
-#### Let + Const
 
 #### Iterators + For..Of
 
