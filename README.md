@@ -33,3 +33,45 @@ or
 babel script.js --out-file script-compiled.js
 ```
 
+### ECMAScript 6 Features
+
+#### Arrows and Lexical This
+
+#### Classes
+
+#### Enhanced Object Literals
+
+#### Template Strings
+
+#### Destructuring
+
+#### Default + Rest + Spread
+
+#### Let + Const
+
+#### Iterators + For..Of
+
+#### Generators
+
+#### Map + Set + WeakMap + WeakSet
+
+#### Proxies
+
+#### Symbols
+
+#### Subclassable Built-ins
+
+#### Math + Number + String + Object APIs
+
+#### Binary and Octal Literals
+
+#### Promises
+
+#### Reflect API
+
+#### Tail Calls
+
+
+
+
+
