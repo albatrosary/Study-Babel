@@ -1,7 +1,7 @@
 // In order to use Generators you must include the Babel polyfill.
 // function* 宣言 (末尾にアスタリスクが付いた function キーワード)は、ジェネレーター関数を定義します
 // Generator Functionの中で処理の中断を指定するキーワード
-// オブジェクトに対するデフォルトイテレータを指定します。for...ofによって使われます
+// Symbol.iteratorオブジェクトに対するデフォルトイテレータを指定します。for...ofによって使われます
 
 var fibonacci = {
   [Symbol.iterator]: function*() {
